@@ -1,0 +1,77 @@
+* {
+  margin: 1%;
+  padding: 1%;
+  box-sizing: border-box;
+}
+
+body {
+  margin: auto auto;
+  width: 100%;
+  min-height: 100%;
+  font-family: 'Lato';
+  text-align: center;
+}
+
+h2 {
+  margin: 25px;
+  margin-bottom: 50px;
+  font-size: 2em;
+}
+
+.container {
+  display: grid;
+  height: 100%;
+  grid-template-columns: auto auto auto;
+  grid-gap: 2px;
+  font-family: 'Lato';
+  text-align: center;
+  font-size: 1.4em;
+  margin: 5px 5px;
+  justify-content: center;
+  background: #8c8c8c;
+  align-content: center; 
+}
+
+.item {
+  padding: 20px;
+  font-size: 1.0em;
+  border: 1px solid darkgrey;
+}
+
+.a,
+.b,
+.c {
+  background: #6699cc;
+}
+
+.d,
+.e,
+.f {
+  background: #6699cc;
+}
+
+.g,
+.h,
+.i {
+  background: #6699cc;
+}
+
+.j,
+.k,
+.l {
+  background: #6699cc;
+}
+
+.m,
+.n,
+.o {
+  background: #6699cc;
+}
+
+.p,
+.q,
+.r {
+  background: #6699cc;
+}
+
+
