@@ -19,6 +19,56 @@ p.content {
   font-style: italic;
   font-size: 1.25em;
 }
+p.content1 { 
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 15px;
+  margin-right: 0;
+  font-weight: bold;
+  font-size: 1.25em;
+}
+p.contentindent1 {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 45px;
+  margin-right: 0;
+  font-weight: bold;
+  font-size: 1.25em;
+}
+
+p.contentindent2 {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 65px;
+  margin-right: 0;
+  font-weight: bold;
+  font-size: 1.25em;
+}	
+p.contentindent3 {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 85px;
+  margin-right: 0;
+  font-weight: bold;
+  font-size: 1.25em;
+}
+p.contentindent4 {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 105px;
+  margin-right: 0;
+  font-weight: bold;
+  font-size: 1.25em;
+}	
+p.contentindent5 {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 125px;
+  margin-right: 0;
+  font-weight: bold;
+  font-size: 1.25em;
+}
+
 .topnav {
   overflow: hidden;
   background-color: #333;
