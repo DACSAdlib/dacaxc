@@ -38,7 +38,9 @@ h2 {
   border: 1px solid darkgrey;
 }
 
-.a,
+.a {
+  background: #C9FFE5;
+}
 .b,
 .c {
   background: #6699cc;
@@ -68,8 +70,12 @@ h2 {
   background: #6699cc;
 }
 
-.p,
-.q,
+.p {
+  background: #6699cc;
+}
+.q {
+  background: #C9FFE5;
+}
 .r {
   background: #6699cc;
 }
