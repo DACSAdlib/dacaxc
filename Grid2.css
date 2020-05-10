@@ -38,46 +38,47 @@ h2 {
   border: 1px solid darkgrey;
 }
 
-.a {
-  background: #C9FFE5;
-}
+.a,
 .b,
 .c {
-  background: #6699cc;
+  background: #66CC99;
 }
 
 .d,
-.e,
+.e
+{
+  background: #66CC99;
+}
+
 .f {
-  background: #6699cc;
+  background: #696969;
 }
 
 .g,
 .h,
 .i {
-  background: #6699cc;
+  background: #696969;
 }
 
 .j,
 .k,
 .l {
-  background: #6699cc;
+  background: #696969;
 }
 
 .m,
 .n,
 .o {
-  background: #6699cc;
+  background: #696969;
 }
 
 .p {
-  background: #6699cc;
+  background: #696969;
 }
-.q {
-  background: #C9FFE5;
-}
-.r {
-  background: #6699cc;
+.q,
+.r 
+{
+  background: #66CC99;
 }
 
 
