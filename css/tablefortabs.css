@@ -40,10 +40,6 @@ tr:nth-child(even) {
   color: white;
 }
 
-
-table.d {
-  table-layout: fixed;
-  width: 100%;  
-  font-family: Monserrat, Arial, sans-serif;
-  border-collapse: collapse;
+.nowrap {
+  white-space: nowrap ;
 }
