@@ -6,6 +6,7 @@ body {
   display: flex;
   flex-direction: column;
   }
+  
 h1 {
   color: green;
   margin: 1em
@@ -99,7 +100,6 @@ p.contentindent5 {
   background-color: #4CAF50;
   color: white;
 }
-
 
 .footer {
   background-color: #333;
