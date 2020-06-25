@@ -24,9 +24,10 @@ td {
 th {
   border: 1px solid #dddddd;
   text-align: left;
-  padding: 8px;	
-  max-width:50px;
+  padding: 5px;	
+  max-width:40px;
   overflow: auto;
+  font-size: 14px;
 }
 
 th.a {
@@ -35,6 +36,7 @@ th.a {
   padding: 8px;	
   width:500px;
   overflow: auto;
+  font-size: 17px;
  }
 
 th.b {
@@ -43,6 +45,7 @@ th.b {
   padding: 8px;	
   width: 275px;
   overflow: auto;
+  font-size: 17px;
  }	
 
 tr:nth-child(even) {
